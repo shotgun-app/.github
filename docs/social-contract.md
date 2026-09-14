@@ -7,6 +7,7 @@
 - Teacher assistant has access to parts of our Discord server
 - Each sprint somebody else will be a Scrum Master.
 - Scrum master has to keep an overview on a sprint and who works on assigned items. He/She also suggest who should be assigned to a certain ticket.
+- In an event of a disagreement Scrum master mediates and ensures that we decide on the things democratically.
 - Technical roles are flexible. Anybody can work on anything. As the time passes, we will refine our team's technical roles.
 - Team members should let each other know about their absence.
 
