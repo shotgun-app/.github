@@ -1,5 +1,8 @@
 # Social contract
 
+### Team members (Project Group 4)
+- Enrico Calderan, Jia Wei Chow, Lan Lebar, Núria Esquius Bau, Sven Ulcar
+
 ### Collaboration
 
 - We communicate through our Discord server, which has multiple channels for different topics.
@@ -34,3 +37,6 @@
     - [shotgun-web](https://github.com/shotgun-app/shotgun-web) (Shotgun Vue web application)
 - Project: [GitHub project](https://github.com/orgs/shotgun-app/projects/1)
 
+### Agreement
+
+All team members were present in the making and agree with the above social contract.
