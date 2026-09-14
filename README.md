@@ -1,2 +1,0 @@
-# .github
-Shotgun README files
