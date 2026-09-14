@@ -15,6 +15,6 @@ Shotgun App is a TODO
 - **Ride sharing**: TODO
 
 ## Tech Stack
-- **Frontend**: Vue.js, TypeScript, Tailwind CSS, Vite
+- **Frontend**: Vue.js (Pinia for state management), TypeScript, Tailwind CSS, Vite
 - **Backend & Database**: Go, Gin, GORM, PostgreSQL
-
+- **Testing**: Vitest, Playwright
