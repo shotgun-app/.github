@@ -4,4 +4,6 @@
   <h1 align="center">Shotgun App Documentation</h1>
 </div>
 
-TODO
+## Social contract
+
+Our social contract is written [here](./social-contract.md).
