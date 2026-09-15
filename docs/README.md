@@ -7,3 +7,7 @@
 ## Social contract
 
 Our social contract is written [here](./social-contract.md).
+
+## TODO - Vision document
+
+Vision document lives in a shared Google document and will be uploaded here once completed.
