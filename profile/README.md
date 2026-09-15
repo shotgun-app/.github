@@ -4,6 +4,8 @@
   <h1 align="center">Call shotgun. Share the ride.</h1>
 </div>
 
+Project for course Agile software project management at University of Gothenburg.
+
 Shotgun App is a TODO
 
 <div align="center">
