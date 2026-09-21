@@ -1,0 +1,54 @@
+name: User Story
+description: Describe a feature from the perspective of a user.
+title: "[Story]: "
+labels: ["user story"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **As a** _[type of user]_, **I want** _[goal]_ **so that** _[benefit]_.
+
+        Focus on the user's need, not the solution. Keep it small enough to finish within a sprint, and make sure it can be tested.
+
+  - type: input
+    id: role
+    attributes:
+      label: As a...
+      placeholder: "e.g. student without a car"
+    validations:
+      required: true
+
+  - type: input
+    id: goal
+    attributes:
+      label: I want...
+      placeholder: "e.g. to see rides going to campus"
+    validations:
+      required: true
+
+  - type: input
+    id: benefit
+    attributes:
+      label: So that...
+      placeholder: "e.g. I can get to class without taking the bus"
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance criteria
+      description: What must be true for this story to be done?
+      value: |
+        - [ ] Meets the [Definition of Done](https://github.com/shotgun-app/.github/blob/main/docs/social-contract.md#definition-of-done)
+        - [ ]
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Designs, related issues, open questions.
+    validations:
+      required: false
