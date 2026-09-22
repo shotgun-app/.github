@@ -1,6 +1,6 @@
 name: Task
 description: A concrete piece of technical work, usually part of a user story.
-title: ""
+title: "<TITLE HERE>"
 labels: ["task"]
 body:
   - type: input
