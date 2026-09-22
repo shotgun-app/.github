@@ -50,6 +50,7 @@ An item is Done when all of the following criteria are met:
 
 - We use a Kanban board by GitHub projects. The first column (Backlog), holds our project/product backlog.
 - We add items (user stories or tasks) as GitHub issues inside the GitHub repo, and open a pull request for each one.
+- Short-lived feature branches are deleted once merged
 - Linking pull requests to issue is done by typing Closes #1 into the PR description (#1 being issue number)
 - We use the following columns on the Kanban board
     - Backlog: Product backlog items - from here we will pick the items for the next sprint
