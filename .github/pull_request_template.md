@@ -1,7 +1,7 @@
 ## Description
 <!-- What does this PR change, and why? -->
 
-Closes #
+Relates to #
 
 ## How to test
 <!-- Steps for the reviewer to check the change -->
