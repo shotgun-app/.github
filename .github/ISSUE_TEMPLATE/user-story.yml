@@ -1,7 +1,7 @@
 name: User Story
 description: Describe a feature from the perspective of a user.
 title: "<TITLE HERE>"
-labels: ["user story"]
+type: Feature
 body:
   - type: markdown
     attributes:
