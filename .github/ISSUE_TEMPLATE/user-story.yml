@@ -1,6 +1,5 @@
 name: User Story
 description: Describe a feature from the perspective of a user.
-title: "<TITLE HERE>"
 type: Feature
 body:
   - type: markdown
