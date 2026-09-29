@@ -6,3 +6,4 @@
 ## Index
 - [Social contract](./social-contract.md).
 - [Vision document](./vision-document.pdf)
+- [Data Base diagram](./DBdiagram.pdf)
