@@ -4,6 +4,6 @@
 </div>
 
 ## Index
-- [Social contract](./social-contract.md).
+- [Social contract](./social-contract.md)
 - [Vision document](./vision-document.pdf)
 - [Data Base diagram](https://dbdiagram.io/d/shotgun_DB-6aba5f375869425612b60f52)
