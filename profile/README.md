@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../content/logo.svg" alt="Shotgun App logo" height="70" />
+  <img src="../content/logo.png" alt="Shotgun App logo" height="70" />
   <h1 align="center">Call shotgun. Share the ride.</h1>
 </div>
 
