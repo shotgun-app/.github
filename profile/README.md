@@ -8,8 +8,7 @@ Shotgun is a carpooling web app that connects drivers who have empty seats with 
 > Built as a university project for course Agile software project management at University of Gothenburg.
 
 <div align="center">
-  <!-- TODO -->
-  <img src="../content/demo.gif" alt="Shotgun App Demo" width="1000" />
+  <video src="https://github.com/user-attachments/assets/e447f644-8c15-44c0-9f43-22e2f836c7f4" width="1000" controls muted></video>
 </div>
 
 ## Features
