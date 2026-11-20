@@ -3,11 +3,9 @@
   <h1 align="center">Call shotgun. Share the ride.</h1>
 </div>
 
-Project for course Agile software project management at University of Gothenburg.
+Shotgun is a carpooling web app that connects drivers who have empty seats with passengers travelling along similar routes. Drivers publish the trips they are already making, and passengers book the free seats at a price set by the driver. With fewer half-empty cars on the road, we help reduce travel costs, traffic and CO₂ emissions.
 
-Shotgun App is a carpooling web app that connects drivers who have empty seats with passengers travelling along similar routes. Drivers publish the trips they are already making, and passengers book the free seats at a price set by the driver. With fewer half-empty cars on the road, we help reduce travel costs, traffic and CO₂ emissions.
-
-Shotgun is built by Project Group 4 as a university project. We work in sprints and release a new version of the app every sprint.
+> Built as a university project for course Agile software project management at University of Gothenburg.
 
 <div align="center">
   <!-- TODO -->
@@ -35,6 +33,5 @@ Shotgun is built by Project Group 4 as a university project. We work in sprints 
 - **Baggage info**: passengers tell the driver the number, size and type of their bags.
 
 ## Tech Stack
-- **Frontend**: Vue.js (Pinia for state management), TypeScript, Tailwind CSS, Vite
-- **Backend & Database**: Go, Gin, GORM, PostgreSQL
-- **Testing**: Vitest, Playwright
+- [shotgun-web](https://github.com/shotgun-app/shotgun-web): Vue.js (Pinia for state management), TypeScript, Tailwind CSS, Vite
+- [shotgun-api](https://github.com/shotgun-app/shotgun-api): Go, Gin, GORM, PostgreSQL
